@@ -36,7 +36,7 @@ Database:
 
 ## 시스템 구성도
 ![슬라이드5](ppt/슬라이드5.PNG)
-![슬라이드6](ppt/archi.png)
+
 
 
 
