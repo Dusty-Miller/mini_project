@@ -15,7 +15,7 @@
 ## 개발 환경
 
 Front-end:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AJAX-0078D7?style=flat&logo=javascript&logoColor=white"/<br><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AJAX-0078D7?style=flat&logo=javascript&logoColor=white"/><br><br>
 Back-end:
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django REST framework-red?style=flat&logo=django&logoColor=white"/> <br><br>
 Database:
