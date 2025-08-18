@@ -31,7 +31,7 @@ Database:
 
 
 
-
+## 프로젝트 
 
 ![슬라이드4](ppt/슬라이드4.PNG)
 ![슬라이드5](ppt/슬라이드5.PNG)
@@ -42,4 +42,6 @@ Database:
 
 <button>https://youtu.be/sCDBcvCAMvE?si=D9-1Yl2WOt98wo1N></a></button>
 <br><br><br>
+
+### 발표용 링크
 <h1>http://3.80.21.12:8000/</h1>
