@@ -1,7 +1,7 @@
 # DUSTY SHOP
 ![슬라이드1](ppt/슬라이드1.PNG)
 
-##프로젝트 개요
+## 프로젝트 개요
 ![슬라이드2](ppt/슬라이드2.PNG)
 
 ## 팀 멤버 소개
@@ -26,7 +26,7 @@ Database:
 디자인:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br><br>
 
-## 프로젝트 개요
+
 
 
 
