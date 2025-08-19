@@ -50,8 +50,6 @@
 
 ## 시연 영상
 
-<button>https://youtu.be/sCDBcvCAMvE?si=D9-1Yl2WOt98wo1N></a></button>
-<br><br><br>
+## 🎥 시연 영상
 
-### 발표용 링크
-<h4>http://3.80.21.12:8000/</h4>
+[![시연 영상](https://img.youtube.com/vi/sCDBcvCAMvE/0.jpg)](https://youtu.be/sCDBcvCAMvE?si=D9-1Yl2WOt98wo1N)
