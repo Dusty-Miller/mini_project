@@ -4,7 +4,7 @@
 
 <h2>프로젝트 개요</h2>
 1명의 판매자가 다양한 상품을 등록하고, 여러 고객이 이를 구매할 수 있는 중고 거래 쇼핑몰 웹 서비스입니다.<br>
-일반 구매 방식뿐만 아니라 **낙찰 이벤트(경매 방식)**를 도입하여 고객들이 흥미롭게 참여할 수 있도록 구현하였습니다.
+일반 구매 방식뿐만 아니라 낙찰 이벤트(경매 방식)를 도입하여 고객들이 흥미롭게 참여할 수 있도록 구현하였습니다.
 
 <a style="margin-top:30px;"></a>
 
@@ -16,30 +16,35 @@
 | :------: | :------: | :------: | :------: |
 |[ @Monzi](https://github.com/Dusty-Miller)|[ @beautiyj](https://github.com/beautiyj)|[ @KimHyeongjun](https://github.com/Ayewww)|[ @SongYunSeok0](https://github.com/SongYunSeok0/SongYunSeok0.github.io)|
 
-<h2>개발 환경</h2>
+## ⚙️ 사용 기술 스택
 
-Front-end:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AJAX-0078D7?style=flat&logo=javascript&logoColor=white"/>
-
-<br>
-
-Back-end:
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django REST framework-red?style=flat&logo=django&logoColor=white"/>
+**Front-end**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/AJAX-0078D7?style=flat&logo=javascript&logoColor=white"/>  
 
 <br>
 
-Database:
-<img src="https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white"/>
+**Back-end**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Django%20REST%20framework-ff1709?style=flat&logo=django&logoColor=white"/>  
 
 <br>
 
-서버 구성:
-<img src="https://img.shields.io/badge/AWS 개발 서버-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+**Database**  
+<img src="https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white"/>  
 
 <br>
 
-협업 툴:
-<img src="https://img.shields.io/badge/GitHub-1c8139?style=flat&logo=github&logoColor=white"/>
+**서버 구성**  
+<img src="https://img.shields.io/badge/AWS%20개발%20서버-232F3E?style=flat&logo=amazonaws&logoColor=white"/>  
+
+<br>
+
+**협업 툴**  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>  
 
 ![슬라이드3](ppt/슬라이드3.png)
 
