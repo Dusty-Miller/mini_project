@@ -32,24 +32,26 @@
 | **서버 구성** | <img src="https://img.shields.io/badge/AWS%20개발%20서버-232F3E?style=flat&logo=amazonaws&logoColor=white"/> |
 | **협업 툴** | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> |
 
-
+&nbsp;
 
 ![슬라이드3](ppt/슬라이드3.png)
 
+&nbsp;
 
-
-## 프로젝트 
+<h2>프로젝트</h2> 
 
 ![슬라이드4](ppt/슬라이드4.PNG)
 
-## 시스템 구성도
+&nbsp;
+
+<h2>시스템 구성도</h2>
+
 ![슬라이드5](ppt/슬라이드5.png)
 
+&nbsp;
 
+<h2>시연 영상</h2>
 
-
-## 시연 영상
-
-## 🎥 시연 영상
-
-[![시연 영상](https://img.youtube.com/vi/sCDBcvCAMvE/0.jpg)](https://youtu.be/sCDBcvCAMvE?si=D9-1Yl2WOt98wo1N)
+<a href="https://youtu.be/sCDBcvCAMvE?si=D9-1Yl2WOt98wo1N">
+  <img src="https://img.youtube.com/vi/sCDBcvCAMvE/0.jpg" width="800px"/>
+</a>
