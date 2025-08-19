@@ -10,7 +10,7 @@
 
 ![슬라이드2](ppt/슬라이드2.PNG)
 
-&nbsp;  
+<img src="https://dummyimage.com/1x100/ffffff/ffffff.png" alt="spacing"/>
 
 <h2>멤버 소개</h2>
 
