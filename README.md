@@ -10,14 +10,13 @@
 
 ![슬라이드2](ppt/슬라이드2.PNG)
 
-![슬라이드3](ppt/슬라이드3.png)
-
 ## 팀 멤버 소개
 
 | **김윤석** | **김윤정** | **김형준** | **송윤석** |
 | :------: | :------: | :------: | :------: |
 |[ @Monzi](https://github.com/Dusty-Miller)|[ @beautiyj](https://github.com/beautiyj)|[ @KimHyeongjun](https://github.com/Ayewww)|[ @SongYunSeok0](https://github.com/SongYunSeok0/SongYunSeok0.github.io)|
 
+![슬라이드3](ppt/슬라이드3.png)
 
 <h2>개발 환경</h2>
 
