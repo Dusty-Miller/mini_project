@@ -18,9 +18,14 @@
 
 ## ⚙️ 사용 기술 스택
 
-| Front-end | Back-end | Database | Server | 협업 툴 |
-|-----------|----------|----------|--------|---------|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AJAX-0078D7?style=flat&logo=javascript&logoColor=white"/> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20REST%20framework-ff1709?style=flat&logo=django&logoColor=white"/> | <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white"/> | <img src="https://img.shields.io/badge/AWS%20개발%20서버-232F3E?style=flat&logo=amazonaws&logoColor=white"/> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> |
+| 구분 | 기술 |
+|------|------|
+| **Front-end** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <br> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <br> <img src="https://img.shields.io/badge/AJAX-0078D7?style=flat&logo=javascript&logoColor=white"/> |
+| **Back-end** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Django%20REST%20framework-ff1709?style=flat&logo=django&logoColor=white"/> |
+| **Database** | <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white"/> |
+| **서버 구성** | <img src="https://img.shields.io/badge/AWS%20개발%20서버-232F3E?style=flat&logo=amazonaws&logoColor=white"/> |
+| **협업 툴** | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> |
+
 
 
 ![슬라이드3](ppt/슬라이드3.png)
