@@ -11,7 +11,7 @@
 ![슬라이드2](ppt/슬라이드2.PNG)
 
 
-<br>
+<a style="margin-top:30px;"></a>
 
 
 <h2>멤버 소개</h2>
