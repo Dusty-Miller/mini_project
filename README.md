@@ -16,8 +16,6 @@
 | :------: | :------: | :------: | :------: |
 |[ @Monzi](https://github.com/Dusty-Miller)|[ @beautiyj](https://github.com/beautiyj)|[ @KimHyeongjun](https://github.com/Ayewww)|[ @SongYunSeok0](https://github.com/SongYunSeok0/SongYunSeok0.github.io)|
 
-![슬라이드3](ppt/슬라이드3.png)
-
 <h2>개발 환경</h2>
 
 Front-end:
@@ -43,7 +41,7 @@ Database:
 협업 툴:
 <img src="https://img.shields.io/badge/GitHub-1c8139?style=flat&logo=github&logoColor=white"/>
 
-
+![슬라이드3](ppt/슬라이드3.png)
 
 
 
