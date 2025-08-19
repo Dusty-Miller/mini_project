@@ -6,7 +6,7 @@
 1명의 판매자가 다양한 상품을 등록하고, 여러 고객이 이를 구매할 수 있는 중고 거래 쇼핑몰 웹 서비스입니다.<br>
 일반 구매 방식뿐만 아니라 **낙찰 이벤트(경매 방식)**를 도입하여 고객들이 흥미롭게 참여할 수 있도록 구현하였습니다.
 
-<div style="margin-top:30px;"></div>
+<a style="margin-top:30px;"></a>
 
 ![슬라이드2](ppt/슬라이드2.PNG)
 
@@ -19,7 +19,7 @@
 |[ @Monzi](https://github.com/Dusty-Miller)|[ @beautiyj](https://github.com/beautiyj)|[ @KimHyeongjun](https://github.com/Ayewww)|[ @SongYunSeok0](https://github.com/SongYunSeok0/SongYunSeok0.github.io)|
 
 
-## 개발 환경
+<h2>개발 환경</h2>
 
 Front-end:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AJAX-0078D7?style=flat&logo=javascript&logoColor=white"/>
