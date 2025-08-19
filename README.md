@@ -10,9 +10,9 @@
 
 ![슬라이드2](ppt/슬라이드2.PNG)
 
-
-<a style="margin-top:100px;"></a>
-
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 <h2>멤버 소개</h2>
 
