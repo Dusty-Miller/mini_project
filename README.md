@@ -53,6 +53,6 @@
 <h2>시연 영상</h2>
 
 <a href="https://youtu.be/sCDBcvCAMvE?si=D9-1Yl2WOt98wo1N">
-  <img src="https://img.youtube.com/vi/sCDBcvCAMvE/0.jpg" width="900px"/>
+  <img src="https://img.youtube.com/vi/sCDBcvCAMvE/0.jpg" width="1000px"/>
 </a>
 
